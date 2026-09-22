@@ -1,4 +1,4 @@
-#Received task number: A11
+# Received task number: A11
 
 Užd. nr. 	Kūnas 	Kodas 	Dekodavimo algoritmas 	Kodo parametrai 	Literatūra 	Pastabos
 
